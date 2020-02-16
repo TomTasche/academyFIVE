@@ -1,0 +1,16 @@
+{
+  "name": "at.tomtasche.academyfive",
+  "version": "1.0.0",
+  "description": "Scrape calendar from academyFIVE API",
+  "main": "fetch.js",
+  "dependencies": {
+    "ical-generator": "^1.8.1",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
